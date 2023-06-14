@@ -1,0 +1,47 @@
+[
+  {
+    "itemDesc": "Daging Ayam",
+    "stock": 0,
+    "itemId": 1
+  },
+  {
+    "itemDesc": "Telur Ayam",
+    "stock": 0,
+    "itemId": 2
+  },
+  {
+    "itemDesc": "Daging Sapi",
+    "stock": 0,
+    "itemId": 3
+  },
+  {
+    "itemDesc": "Beras",
+    "stock": 0,
+    "itemId": 4
+  },
+  {
+    "itemDesc": "Bawang Putih",
+    "stock": 0,
+    "itemId": 5
+  },
+  {
+    "itemDesc": "Cabai Merah",
+    "stock": 0,
+    "itemId": 6
+  },
+  {
+    "itemDesc": "Cabai Rawit",
+    "stock": 0,
+    "itemId": 7
+  },
+  {
+    "itemDesc": "Minyak Goreng",
+    "stock": 0,
+    "itemId": 8
+  },
+  {
+    "itemDesc": "Gula Pasir",
+    "stock": 0,
+    "itemId": 9
+  }
+]

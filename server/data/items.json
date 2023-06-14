@@ -1,0 +1,38 @@
+[
+  {
+    "itemName": "Daging Ayam",
+    "itemPrice": 40000
+  },
+  {
+    "itemName": "Telur Ayam",
+    "itemPrice": 10000
+  },
+  {
+    "itemName": "Daging Sapi",
+    "itemPrice": 70000
+  },
+  {
+    "itemName": "Beras",
+    "itemPrice": 8000
+  },
+  {
+    "itemName": "Bawang Putih",
+    "itemPrice": 12000
+  },
+  {
+    "itemName": "Cabai Merah",
+    "itemPrice": 14000
+  },
+  {
+    "itemName": "Cabai Rawit",
+    "itemPrice": 40000
+  },
+  {
+    "itemName": "Minyak Goreng",
+    "itemPrice": 30000
+  },
+  {
+    "itemName": "Gula Pasir",
+    "itemPrice": 5000
+  }
+]
